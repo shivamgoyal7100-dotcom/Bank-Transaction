@@ -1,0 +1,8 @@
+{
+  "name": "bank-transaction-root",
+  "private": true,
+  "scripts": {
+    "postinstall": "cd backend && npm install",
+    "start": "cd backend && npm start"
+  }
+}
